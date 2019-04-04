@@ -6,4 +6,6 @@ apt-get install apache2 -y
 
 cd /var/www/html
 
-git clone https://github.com/mbrouwer/myvmscripts.git web
+hostname > index.html
+
+#git clone https://github.com/mbrouwer/myvmscripts.git web
